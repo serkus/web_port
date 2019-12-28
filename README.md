@@ -20,8 +20,7 @@
 <li>Введите в терминале:</li>
 	<code>
 	<i style="color: red;">cd  web_pоrt &&
-	git clone https://github.com/brython-dev/brython.git ./view/static/js/ <i>
-	<br>
+	git clone https://github.com/brython-dev/brython.git ./view/static/js/ <i> <br>
 	<b> или скачайте Brython  и распакуйте его в ./view/static/js/ <b>
 	 </code>
 <li>Запустите его ./start</li>

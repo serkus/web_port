@@ -16,14 +16,14 @@
 <b>КАК СОБРАТЬ И ЗАПУСТИТЬ:</b>
 <ol>
 <p>Нужен диструтив, использующий пакетный менеджер Portage.</p>
-<li>Скачайте дистрибутив проекта Webport<li>
+<li>Скачайте дистрибутив проекта Webport</li>
 <li>Введите в терминале:</li>
 	<code>
 	<i style="color: red;">cd  web_pоrt &&
 	git clone https://github.com/brython-dev/brython.git ./view/static/js/ <i>
 	<b> или скачайте Brython  и распакуйте его в ./view/static/js/ <b>
 	 </code>
-<li>Запустите его ./start<li>
+<li>Запустите его ./start</li>
 <li>Откройте в браузере страницу http://localhost:8080</li>
 </ol>
 <div>

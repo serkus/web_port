@@ -20,16 +20,15 @@
 <li>Введите в терминале:</li>
 	<code>
 		<i style="color: red;">cd  web_pоrt &&
-		git clone https://github.com/brython-dev/brython.git ./view/static/js/ </i>
+		git clone https://github.com/brython-dev/brython.git ./view/static/js/ </i> 
 	</code>
-	<br>
+	<p>
 	<b> или скачайте Brython  и распакуйте его в ./view/static/js/ </b>
 	<p>
 <li>Запустите его командой из консоли 
 	<code>
 		<i style="color: red;">
-		./start</li> </i>
-	</code>
+		./start</li> </i> </code>
 	<p>
 <li>Откройте в браузере страницу http://localhost:8080</li>
 </ol>

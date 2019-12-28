@@ -23,7 +23,7 @@
 		git clone https://github.com/brython-dev/brython.git ./view/static/js/ <i>
 	</code>
 	<br>
-	<b> или скачайте Brython  и распакуйте его в ./view/static/js/ <b>
+	<b> или скачайте Brython  и распакуйте его в ./view/static/js/ </b>
 	
 <li>Запустите его ./start</li>
 <li>Откройте в браузере страницу http://localhost:8080</li>

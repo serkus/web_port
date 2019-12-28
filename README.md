@@ -27,9 +27,7 @@
 	<p>
 <li>Запустите его командой из консоли 
 	<code>
-		<i style="color: red;">
-		./start</li> </i> </code>
-	<p>
+		<i style="color: red;"> ./start</li> </i> </code> <br>
 <li>Откройте в браузере страницу http://localhost:8080</li>
 </ol>
 <div>

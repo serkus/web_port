@@ -24,13 +24,13 @@
 	</code>
 	<br>
 	<b> или скачайте Brython  и распакуйте его в ./view/static/js/ </b>
-	<br>
+	<p>
 <li>Запустите его командой из консоли 
 	<code>
 		<i style="color: red;">
 		./start</li> </i>
 	</code>
-	<br>
+	<p>
 <li>Откройте в браузере страницу http://localhost:8080</li>
 </ol>
 <div>
